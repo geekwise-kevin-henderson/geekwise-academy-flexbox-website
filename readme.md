@@ -8,11 +8,8 @@
 
 *center with just flex
 
-*add lines
+~~*add lines~~
 
 *add words
-
-*add borders
-
 
 ~~*save images on server~~
