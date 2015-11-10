@@ -14,6 +14,5 @@
 
 *add borders
 
-*fix nav
 
 ~~*save images on server~~
