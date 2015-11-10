@@ -1,4 +1,5 @@
 #geekwise-academy-website-flexbox
+
 ##nov-10-2015
 
 ##TODO
@@ -7,10 +8,12 @@
 
 *center with just flex
 
-*add ines
+*add lines
 
 *add words
 
 *add borders
 
-*fix nax
+*fix nav
+
+~~*save images on server~~
